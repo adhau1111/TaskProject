@@ -1,0 +1,27 @@
+
+div{
+    background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+    /* opacity: -3%; */
+
+    /* background-image:url(../../assets/naturebeauty.jpg); */
+    
+}
+thead{
+    background-color:#a57373;
+    color: rgb(160, 156, 156);
+    text-align: center;
+    padding: 2%;
+    
+    /* background-repeat:no-repeat; */
+}
+table{
+    color:rgb(179, 19, 19);
+    /* background-color: rgb(85, 177, 177); */
+    text-transform: uppercase;
+    /* text-decoration: none; */
+    /* background-clip:content-box ; */
+    border: 1px;
+}
+a{
+    align-items: center;
+}
